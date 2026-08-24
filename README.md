@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>♪ TikTok Account Creator</h1>
+  <h1>♪ TikTok Account Creator - (UPDATE 24.08.2026)</h1>
 </div>
  
 # Features:
