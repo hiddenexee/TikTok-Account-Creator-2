@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>♪ TikTok Account Creator - (UPDATE 24.09.2026)</h1>
+  <h1>♪ TikTok Account Creator - (UPDATE 25.09.2026)</h1>
 </div>
  
 # Features:
@@ -9,6 +9,7 @@
 - Login & Register Api
 - SMS Sender
 - Like Api
+- Video Upload
  
 # Contact:
 
