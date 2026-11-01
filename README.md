@@ -8,6 +8,7 @@
 - Signurate
 - Login & Register Api
 - SMS Sender
+- Captcha solver
 - Like Api
 - Video Upload
  
