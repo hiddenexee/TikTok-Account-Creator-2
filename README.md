@@ -9,7 +9,7 @@
 - Login & Register Api
 - SMS Sender
 - Captcha solver
-- Like Api
+- Like & Live Like Api
 - Video Upload
  
 # Contact:
